@@ -1,0 +1,9 @@
+<library path="agv_hardware">
+  <class name="agv_hardware/AGVHardware"
+         type="agv_hardware::AGVHardware"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>
+      The ROS2 control AGV
+    </description>
+  </class>
+</library>
